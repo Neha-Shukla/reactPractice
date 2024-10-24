@@ -10,7 +10,7 @@ function App() {
 
   return (
     <div className="App">
-      <Child1 name ="xyz" age={26} handleClicks={handleClick}/>
+      <Child1 name ="xyzu" age={26} handleClicks={handleClick}/>
       <Child2/>
     </div>
   );
